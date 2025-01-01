@@ -22,24 +22,8 @@ based on medical factors. The findings of this study
 contribute to the development of an effective early
 heart attack detection system.
 
-# Objectives
-1. The objective of the machine learning code is to
-develop a classification model that can predict the
-presence or absence of heart disease based on
-various health indicators.
-2. Exploratory data analysis was performed to
-visualize the relationships between different
-variables and heart disease.
-3. Data pre-processing was done to handle missing
-values and categorical variables were converted into
-dummy variables.
-4. Four different classification algorithms were
-applied to the pre-processed data, including Naive
-Bayes, K-Nearest Neighbours, Support Vector
-Machines, and Decision Trees.
-5. The performance of each model was evaluated
-using accuracy scores, confusion matrices, and
-classification reports.
+
+
 6. Based on the evaluation, the Support Vector
 Machine (SVM) model was chosen as the final
 model with the highest accuracy score.
