@@ -24,6 +24,3 @@ heart attack detection system.
 
 
 
-6. Based on the evaluation, the Support Vector
-Machine (SVM) model was chosen as the final
-model with the highest accuracy score.
