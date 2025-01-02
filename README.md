@@ -22,5 +22,6 @@ based on medical factors.
 The findings of this study contribute to the development of an effective early
 heart attack detection system.
 
+Here is the link to view the published paper: https://ijsrem.com/download/early-heart-attack-detection/
 
 
